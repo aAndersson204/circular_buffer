@@ -1,6 +1,6 @@
 [project]
 name = "circular-buffer"
-version = "0.1.1"
+version = "0.1.2"
 description = "A fixed-capacity ring buffer that overwrites its oldest entry when full."
 requires-python = ">=3.10"
 dependencies = []
